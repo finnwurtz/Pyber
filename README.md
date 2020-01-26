@@ -1,5 +1,5 @@
 # Python-Matplotlib-Pyber
-This program uses the Matplotlib library to analyze trip data for a fictional rideshare company.
+This program uses the Matplotlib library to analyze trip data for a fictional rideshare application.
 
 In this program, city type (meaning either urban, suburban, or rural) is the independent variable, a variety of trip attributes are measured as potential dependent variables, and units of analysis include trips, drivers, and cities. The program organizes and plots the data using Pandas and Matplotlib. The program is organized using a Jupyter notebook.
 
