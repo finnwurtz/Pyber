@@ -1,5 +1,5 @@
 # Python-Matplotlib-Pyber
-This program uses the Matplotlib library to analyze trip data for a fictional rideshare application.
+This program uses the Matplotlib library to analyze trip data for a fictional ridesharing application.
 
 Technologies Used: Python, Pandas, Matplotlib, Jupyter Notebook
 
